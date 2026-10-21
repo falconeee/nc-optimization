@@ -1,5 +1,13 @@
-*.pdf
-*.csv
+# Ambiente
 .venv/
 venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Dados e entregas (não versionados)
+*.csv
+*.pdf
 entrega/
+
+# macOS
+.DS_Store
